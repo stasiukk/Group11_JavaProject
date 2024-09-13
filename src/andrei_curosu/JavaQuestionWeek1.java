@@ -21,7 +21,7 @@ public class JavaQuestionWeek1 {
             if (i % 2 == 0) {
                 System.out.println("number " + i + " is even");
             }else{
-                System.out.println("number " + i + " is odd");
+                System.out.println("number: " + i + " is odd");
             }
 
         }
