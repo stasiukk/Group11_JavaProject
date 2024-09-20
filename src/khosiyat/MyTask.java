@@ -1,4 +1,4 @@
-package Khosiyat;
+package khosiyat;
 
 public class MyTask {
     public static void main(String[] args) {
