@@ -1,6 +1,6 @@
-package andrii.week_2;
+package andrii;
 
-public class Week_2_Practice {
+public class Week_2_Java_Practice {
 
     public static void printNumbers() {
         for (int i = 1; i <= 30; i++) {
