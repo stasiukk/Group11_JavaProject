@@ -1,6 +1,6 @@
 package vladimir;
 
-import java.util.ArrayList;
+
 import java.util.Scanner;
 
 public class week03_Q01 {
