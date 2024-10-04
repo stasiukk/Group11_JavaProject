@@ -1,6 +1,6 @@
-package andrii.week_1;
+package andrii;
 
-public class Week_1_Practice {
+public class Week_1_Java_Practice {
 
     public static String identify(int number) {
         if (number % 2 == 0) {
