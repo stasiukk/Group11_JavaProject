@@ -1,7 +1,7 @@
 package kevin;
 import java.util.Scanner;
 
-public class week1 {
+public class week01_javaPractice {
 
     public static String evenOrOdd(int number){
         if(number % 2 == 0){
