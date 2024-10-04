@@ -1,6 +1,6 @@
 package kevin;
 
-public class week2 {
+public class week02_javaPractice {
     public static void number() {
         for (int i = 1; i <= 30; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
